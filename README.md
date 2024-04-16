@@ -29,7 +29,6 @@
 - [DX 白書 2021 - IPA](https://www.ipa.go.jp/publish/wp-dx/dx-2021.html)
 - [情報セキュリティ白書 2021 - IPA](https://www.ipa.go.jp/publish/wp-security/sec-2021.html)
 - [フリーランス白書 2021 - フリーランス協会](https://blog.freelance-jp.org/wp-content/uploads/2021/03/%E3%80%90%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E7%99%BD%E6%9B%B82021%E3%80%91%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%EF%BC%86%E3%83%91%E3%83%A9%E3%83%AC%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E5%8D%94%E4%BC%9A.pdf)
--
 - [IT エンジニア転職白書 2021 - レバテック](https://prtimes.jp/main/html/rd/p/000000383.000010591.html)
 
 ### 2020
