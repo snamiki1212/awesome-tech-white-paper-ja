@@ -1,6 +1,6 @@
-# awesome-white-paper-ja
+# awesome-tech-white-paper-ja
 
-日本語で読める白書のまとめ。
+日本語で読めるテック系の白書まとめ。
 
 ## 白書
 
