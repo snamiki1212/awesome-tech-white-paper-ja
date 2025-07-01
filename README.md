@@ -11,8 +11,8 @@
 - TODO: [エンジニア白書 2025 - Qiita](https://qiita.com/white_papers/2024)
 - TODO: [情報セキュリティ白書 2025 - IPA](https://www.ipa.go.jp/publish/wp-security/2024.html)
 - TODO: [情報通信白書 2025 - 総務省](https://www.soumu.go.jp/johotsusintokei/whitepaper/index.html)
-- TODO: [フリーランス白書 2025 - フリーランス協会](https://blog.freelance-jp.org/20240326-21088/)
-- TODO: [IT 人材白書 2025 - レバレジーズ株式会社](https://leverages.jp/news/2024/0125/3943/)
+- [フリーランス白書 2025 - フリーランス協会](https://blog.freelance-jp.org/wp-content/uploads/2025/04/FreelanceSurvey2025.pdf)
+- [IT 人材白書 2025 - レバレジーズ株式会社](https://levtech.jp/files/doc/levtech_research_2025.pdf)
 
 ### 2024
 
