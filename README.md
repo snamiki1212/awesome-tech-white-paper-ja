@@ -1,8 +1,18 @@
 # awesome-tech-white-paper-ja
 
-日本語で読めるテック系の白書まとめ。
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+テック系の日本語白書まとめ
 
 ## 白書
+
+### WIP: 2025
+
+- TODO: [エンジニア白書 2025 - Qiita](https://qiita.com/white_papers/2024)
+- TODO: [情報セキュリティ白書 2025 - IPA](https://www.ipa.go.jp/publish/wp-security/2024.html)
+- TODO: [情報通信白書 2025 - 総務省](https://www.soumu.go.jp/johotsusintokei/whitepaper/index.html)
+- TODO: [フリーランス白書 2025 - フリーランス協会](https://blog.freelance-jp.org/20240326-21088/)
+- TODO: [IT 人材白書 2025 - レバレジーズ株式会社](https://leverages.jp/news/2024/0125/3943/)
 
 ### 2024
 
