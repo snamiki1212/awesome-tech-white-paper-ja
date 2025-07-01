@@ -6,16 +6,19 @@
 
 ### 2024
 
-- [IT 人材白書 2024 - レバレジーズ株式会社](https://leverages.jp/news/2024/0125/3943/)
+- [エンジニア白書 2024 - Qiita](https://qiita.com/white_papers/2024)
+- [情報セキュリティ白書 2024 - IPA](https://www.ipa.go.jp/publish/wp-security/2024.html)
+- [情報通信白書 2024 - 総務省](https://www.soumu.go.jp/johotsusintokei/whitepaper/index.html)
 - [フリーランス白書 2024 - フリーランス協会](https://blog.freelance-jp.org/20240326-21088/)
+- [IT 人材白書 2024 - レバレジーズ株式会社](https://leverages.jp/news/2024/0125/3943/)
 
 ### 2023
 
 - [エンジニア白書 2023 - Qiita](https://qiita.com/white_papers/2023)
-- [DX 白書 2023 - IPA](https://www.ipa.go.jp/publish/wp-dx/dx-2023.html)
 - [情報セキュリティ白書 2023 - IPA](https://www.ipa.go.jp/publish/wp-security/2023.html)
-- [情報通信白書 - 総務省](https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r05/pdf/index.html)
+- [情報通信白書 2023 - 総務省](https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r05/pdf/index.html)
 - [フリーランス白書 2023 - フリーランス協会](https://blog.freelance-jp.org/wp-content/uploads/2023/03/FreelanceSurvey2023.pdf)
+- [DX 白書 2023 - IPA](https://www.ipa.go.jp/publish/wp-dx/dx-2023.html)
 
 ### 2022
 
